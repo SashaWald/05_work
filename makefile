@@ -1,5 +1,5 @@
 all: madness.o
-	gcc -o madness madnes.o
+	gcc -o madness madness.o
 
 run:
 	./madness
